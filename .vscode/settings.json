@@ -1,0 +1,11 @@
+{
+    "workbench.colorTheme": "Omni",
+    "workbench.iconTheme": "material-icon-theme",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.wordWrap": "on",
+    "[html]": {
+      "editor.formatOnSave":true,
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+  }
+  
